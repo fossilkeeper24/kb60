@@ -1,6 +1,0 @@
-[submodule "kb60 - kicad/OPL_Kicad_Library"]
-	path = kb60 - kicad/OPL_Kicad_Library
-	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
-[submodule "kb60 - kicad/scottokeebs"]
-	path = kb60 - kicad/scottokeebs
-	url = https://github.com/joe-scotto/scottokeebs
