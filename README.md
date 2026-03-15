@@ -6,7 +6,7 @@ I didn't like having a numpad on my keyboard because it just collects dust as I 
 
 ## Some pictures
 
-![keyboard case render](imgs/kb60_render1.png?raw=true "keyboard case render")
+![keyboard case render](imgs/render3.png "keyboard case render")
 
 ![pcb](imgs/pcb.png?raw=true "pcb")
 
