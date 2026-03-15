@@ -167,3 +167,18 @@ I added the fusion files to my github repo and added some more information to th
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIwNzM0LCJwdXIiOiJibG9iX2lkIn19--4d2962a0bfffea3ab6f71e84fc2e565a1f7423a2/image.png)
   
 
+# 3/15/2026 - fixed errors that my friend found  
+
+_Time spent: 1.2h_  
+
+I added footprints for stabilizers since I hadn't already and I had chosen to use plate mounted stabilizers.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxNzgzLCJwdXIiOiJibG9iX2lkIn19--a0835fc243da406d834e508e3fe45a5ead023fd2/image.png)
+
+Previously, I did not have and tolerance in my case for where my PCB is supposed to sit so I added some, and also a shelf for it to sit on. I split the case up so that it would be a better size to 3d print and added some extra screws.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxNzg2LCJwdXIiOiJibG9iX2lkIn19--6363e92337f075a13691990bd144bd8eb41dcc5a/image.png)
+
+Finally, I added some keycaps in the model so that it can be visualized easier.
+
+  
+
