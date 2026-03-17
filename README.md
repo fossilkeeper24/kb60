@@ -14,16 +14,16 @@ I didn't like having a numpad on my keyboard because it just collects dust as I 
 
 ## BOM
 
-|Name          |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |price (£)|Notes                                              |
+|Name          |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |price ($)|Notes                                              |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|---------------------------------------------------|
-|rasp pi pico  |https://www.aliexpress.com/item/1005003753933847.html |£1.89    |                                                   |
-|rotary encoder |https://www.aliexpress.com/item/1005005983134515.html |£1.03    | 15mm length                                       |
-|stabilizers   |https://www.aliexpress.com/item/1005001632672798.html |£16.78   |choose ones that go with whatever switches i choose|
-|switches      |https://www.aliexpress.com/item/1005007665996795.html                                                                                                          |£15.30   |                                                   |
-|diodes        |https://www.aliexpress.com/item/2025724181.html|£1.24    |                                                   |
-|keycaps       |https://www.aliexpress.com/item/1005008714429564.html |£29.79   |142 keys                                           |
-|m3x12 screws  |https://www.aliexpress.com/item/32510989714.html |£1.21    |                                                   |
-|m3 heatset    |https://www.aliexpress.com/item/1005006838108683.html |£0.76    |L4 4.2mm                                                  |
+|rasp pi pico  |https://www.aliexpress.com/item/1005003753933847.html |2.40   |                                                   |
+|rotary encoder |https://www.aliexpress.com/item/1005005983134515.html |2.59    | 15mm length                                       |
+|stabilizers   |https://www.aliexpress.com/item/1005001632672798.html |17.89   |choose ones that go with whatever switches i choose|
+|switches      |https://www.aliexpress.com/item/1005007665996795.html                                                                                                          |14.68*2   |                                                   |
+|diodes        |https://www.aliexpress.com/item/2025724181.html|1.91    |                                                   |
+|keycaps       |https://www.aliexpress.com/item/1005008714429564.html |33.30   |142 keys                                           |
+|m3x12 screws  |https://www.aliexpress.com/item/32510989714.html |1.58    |                                                   |
+|m3 heatset    |https://www.aliexpress.com/item/1005006838108683.html |1.99    |L4 4.2mm                                                  |
 |PLA           |print legion goats |         |                                                   |
-|PCB           |JLC PCB |£12.89   |there are many coupons that i could use            |
-|TOTAL         | |£80.89   |                                                   |
+|PCB           |JLC PCB |31.85   |there are many coupons that i could use            |
+|TOTAL         | |122.87   |                                                   |
