@@ -20,7 +20,7 @@ I didn't like having a numpad on my keyboard because it just collects dust as I 
 |rotary encoder|https://www.aliexpress.com/item/1005005196870256.html |£1.03    |                                                   |
 |stabilizers   |https://www.aliexpress.com/item/1005001632672798.html |£16.78   |choose ones that go with whatever switches i choose|
 |switches      |https://www.aliexpress.com/item/1005007665996795.html                                                                                                          |£15.30   |                                                   |
-|diodes        |https://www.aliexpress.com/item/1005006127068810.html |£1.24    |                                                   |
+|diodes        |https://www.aliexpress.com/item/2025724181.html|£1.24    |                                                   |
 |keycaps       |https://www.aliexpress.com/item/1005008714429564.html |£29.79   |142 keys                                           |
 |m3x12 screws  |https://www.aliexpress.com/item/32510989714.html |£1.21    |                                                   |
 |m3 heatset    |https://www.aliexpress.com/item/1005008666672949.html |£0.76    |                                                   |
