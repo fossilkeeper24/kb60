@@ -6,6 +6,8 @@ I didn't like having a numpad on my keyboard because it just collects dust as I 
 
 ## Some pictures
 
+![assembled keyboard](imgs/keeb_angle.JPG "assembled keyboard")
+
 ![keyboard case render](imgs/render3.png "keyboard case render")
 
 ![pcb](imgs/pcb.png? "pcb")
