@@ -182,3 +182,12 @@ Finally, I added some keycaps in the model so that it can be visualized easier.
 
   
 
+# 7/21/2026 - Built the keyboard irl!  
+
+_Time spent: 10.0h_  
+
+I have soldered and assembled my keyboard! It is now in use and sounds great. I had some trouble with the firmware but it was nothing that a bit of experimenting couldn't fix. Designing and building this keyboard was such a fun learning experience.
+![keeb_topdown](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYyNjMzLCJwdXIiOiJibG9iX2lkIn19--89a412066afe98dbe0828ad434ae9409104e126f/keeb_topdown.JPG)
+
+I may have used some function keys for some keys that the keycap set was short of but who's looking that hard anyway...  
+
