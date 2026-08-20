@@ -52,8 +52,8 @@ keyboard.keymap = [
 encoder_handler.divisor = 2
 encoder_handler.pins = ((board.GP21, board.GP22, None,), )
 
-encoder_handler.map = [ (( KC.VOLD, KC.VOLU,),), # Layer 0
-                        (( KC.BRID, KC.BRIU,),), ] # Layer 1
+encoder_handler.map = [ (( KC.VOLU, KC.VOLD,),), # Layer 0
+                        (( KC.BRIU, KC.BRID,),), ] # Layer 1
 
 if __name__ == '__main__':
     keyboard.go()
